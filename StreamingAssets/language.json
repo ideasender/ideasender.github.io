@@ -5,104 +5,42 @@
       "readyToPlay": 20,
       "pressContinue": 50,
       "greatJob": 20,
-      "onePlusOne": 30,
-	  
-	  "btnPlay": 7,
-	  "score": 6,
-	  "animal": 6,
-	  "congrats": 15,
-	  
-	  "mission1": 30,
-	  "mission2": 30,
-	  "mission3": 30,
-	  "mission4": 30,
-	  "mission5": 30,
-	  "mission6": 30,
-	  
-	  "opening1_0": 132,
-	  "opening1_1": 132,
-	  "opening1_2": 132,
-	  "opening1_3": 132,
-	  
-	  "scene1_0": 132,
-	  "scene1_1": 132,
-	  "scene1_2": 132,
-	  "scene1_3": 132,
-	  
-	  "scene2_0": 132,
-	  "scene2_1": 132,
-	  "scene2_2": 132,
-	  "scene2_3": 132,
-	  
-	  "scene3_0": 132,
-	  "scene3_1": 132,
-	  
-	  "opening2_0": 132,
-	  "opening2_1": 132,
-	  "opening2_2": 132,
-	  
-	  "scene5_0": 132,
-	  "scene5_1": 132,
-	  "scene5_2": 132,
-	  
-	  "scene6_0": 132,
-	  "scene6_1": 132,
-	  
-	  "scene7_0": 132,
-	  "scene7_1": 132,
-	  "scene7_2": 132
+      "onePlusOne": 30
     }
   },
-  
   "en": {
-	"btnPlay": "Play",
-	"score": "Score",
-	"animal": "Animal",
-	"congrats": "Congratulation",
-	
-	"totalPoint": "Total Points",
-	"totalEat": "Total Eat",
-	"totalCollectAnimal": "Total Collect Animal",
-	
-	"mission1": "Find a way out",
-	"mission2": "Find 20 sheeps",
-	"mission3": "Get out of the forest",
-	"mission4": "Check the big animals at exit",
-	"mission5": "Find 15 wolves",
-	"mission6": "Hunt the big animals",
-	
-	
-	"opening1_0": "Welcome to the game!",
-	"opening1_1": "Here, you will learn a bit about animal group.",
-	"opening1_2": "Now, you will start as a sheep. It’s getting dark and you have to go home soon. ",
-	"opening1_3": "Find your way out to exit the forest!",
-	
-	"scene1_0": "Oh no, it seems that the wolves are everywhere!  ",
-	"scene1_1": "You’ll need to go past them to get out. But it’s dangerous!  ",
-	"scene1_2": "You’ll need to find more friends to form a big group to defend yourselves from the wolves!  ",
-	"scene1_3": "Try to search for sheep voices to help you locate them. Beware of the roaming wolves!",
-	
-	"scene2_0": "Great! Now that you have a large group, the wolves will think twice before attacking.  ",
-	"scene2_1": "Basically, the larger the group, the less likely it will be for any one individual to die. ",
-	"scene2_2": "But sometimes, there are predators who still attacks large group. At least you’ll still have more chance of survival in a big group!  ",
-	"scene2_3": "Now let’s go and exit this forest!",
-	
-	"scene3_0": "Great! You have succesfully exited the forest, thanks to your large group.  ",
-	"scene3_1": "Larger animal group could increase their survivability. Don’t forget about that!  ",
-	
-	"opening2_0": "Now that you’ve known about group’s impact in survivability, let’s move to another animal.  ",
-	"opening2_1": "Now you’ll start as a wolf. Your pack is hungry, and you must collect foods!  ",
-	"opening2_2": "Try to collect as many food as you can.",
-	
-	"scene5_0": "Oof! That animal is too big for you alone to handle. ",
-	"scene5_1": "But if you could hunt it, it will surely provide a lot of meat for your pack!  ",
-	"scene5_2": "You’ll need more power to defeat it. Try to find more friends to hunt together!  ",
-	
-	"scene6_0": "Nice! Now, with this number, you can surely defeat big animals.",
-	"scene6_1": "Go and hunt for more meat with your friends!",
-	
-	"scene7_0": "Awesome! You have succesfully collected enough food for your pack.",
-	"scene7_1": "Thanks to the wolf’s pack, they can hunt animals far bigger than themselves.",
-	"scene7_2": "Larger animal group can increase their chance to get more food. Don’t forget about that!"
+    "welcome": "Welcome!",
+    "readyToPlay": "Are you ready to play?",
+    "greatJob": "Great job!",
+    "pressContinue": "Press the next button to continue.",
+    "onePlusOne": "One + One = Two"
+  },
+  "es": {
+    "welcome": "¡Bienvenido!",
+    "readyToPlay": "¿Estás listo para jugar?",
+    "greatJob": "¡Gran trabajo!",
+    "pressContinue": "Presione el botón 'siguiente' para continuar.",
+    "onePlusOne": "Uno + Uno = Dos"
+  },
+  "zh": {
+    "welcome": "欢迎！",
+    "readyToPlay": "你准备好玩吗",
+    "greatJob": "做得好！",
+    "pressContinue": "按“下一步”按钮继续。",
+    "onePlusOne": "一+一=二"
+  },
+  "jp": {
+    "welcome": "ようこそ!",
+    "readyToPlay": "あなたは遊ぶ準備ができていますか？",
+    "greatJob": "よくやった！",
+    "pressContinue": "続行するには '次へ'ボタンを押してください。",
+    "onePlusOne": "1 + 1 = 2"
+  },
+  "ru": {
+    "welcome": "Добро пожаловать!",
+    "readyToPlay": "Вы готовы играть?",
+    "greatJob": "Отличная работа!",
+    "pressContinue": "Нажмите следующую кнопку, чтобы продолжить.",
+    "onePlusOne": "один + один"
   }
 }
