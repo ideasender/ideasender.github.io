@@ -1,0 +1,11 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "LOL_3.data.unityweb",
+"asmCodeUrl": "LOL_3.asm.code.unityweb",
+"asmMemoryUrl": "LOL_3.asm.memory.unityweb",
+"asmFrameworkUrl": "LOL_3.asm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
