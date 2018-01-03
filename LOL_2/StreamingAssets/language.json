@@ -1,0 +1,74 @@
+{
+  "_meta": {
+    "maxChars": {
+      "welcome": 20,
+      "readyToPlay": 20,
+      "pressContinue": 50,
+      "greatJob": 20,
+      "onePlusOne": 30
+    }
+  },
+  "en": {
+    "welcome": "Welcome!",
+    "readyToPlay": "Are you ready to play?",
+    "greatJob": "Great job!",
+    "pressContinue": "Press the next button to continue.",
+    "onePlusOne": "One + One = Two",
+	
+	"btnPlay": "PLAY",
+	"score": "Score",
+	"trashFull": "Trash Full",
+	"congratulation": "Congratulation",
+	"ok": "OK",
+	
+	"water": "Water",
+	"fertilizer": "Fertilizer",
+	"worm": "Worm",
+	"grass": "Grass",
+	"trash": "Trash",
+	
+	"opening_0": "Hello!! Welcome To Garden Family. Here, we will grow some Animals and Plants",
+	"opening_1": "I can't do all this things by my self, so i need you to help me",
+	"opening_2": "I will bring some animals and plants to the garden.",
+	
+	
+	"firstdeer_0": "What you need to do just give them what they need.",
+	"firstdeer_1": "All item what you need is on the box below",
+	"firstdeer_2": "And the important thing is dont too long to feed them. They will run out of our garden.",
+	"firstdeer_3": "Just drag it to the animals or plants, put trash to the trash bin if you find some.",
+	"firstdeer_4": "Not only the trash, you can put unneeded item too the trash bin to get new item",
+	
+	"firstgrow_0": "Wow the deer was growing!",
+	"firstgrow_1": "Naturally if you give them enough food their body will become bigger.",
+	"firstgrow_2": "Great Job! Keep feeding them",
+	
+	
+	"firstdeergrowdifferentstructure_0": "At some point, animal body structure grow to different shape",
+	"firstdeergrowdifferentstructure_1": "For example on this animal, the body structure have different part from before.",
+	"firstdeergrowdifferentstructure_2": "Wow! I'm very curious about how it's change on next step",
+	
+	"firstplant_0": "I bought a new plant, it has different needs than animals.",
+	"firstplant_1": "Its also could grow too. Let's find out how it grows.",
+	"firstplant_2": "Wohoo.. I can't wait to see it!!",
+	
+	"firstduck_0": "Hey i bought some little cute ducks.",
+	"firstduck_1": "Duck have different grow step. Before it can walk and run, duck come from an egg.",
+	"firstduck_2": "And also it can grow too... Lets see how it's happen.",
+	
+	"firstplantgrow_0": "Do you want to know about plants??",
+	"firstplantgrow_1": "Plants have different grow step from animals.",
+	"firstplantgrow_2": "It comes from a seed,",
+	"firstplantgrow_3": "After it got enough mineral from soil and water, come a sprout.",
+	"firstplantgrow_4": "And its become bigger after several times. Until it has perfect structure that consist of some part like root, stem, leaf, etc",
+	
+	"deergrowfinalstructure_0": "This is the final form of this animals. Looked so brave right!",
+	"deergrowfinalstructure_1": "Beside it has different look from its grow. The bone inside its body change too.",
+	"deergrowfinalstructure_2": "Like the example before, the bone grow longer than before.",
+	"deergrowfinalstructure_3": "Lets continue findout more shape of our animals and plants.",
+	
+	"finalgame_0": "Cool!!! This is very fun. Everything is easier and more fun when we did it together.",
+	"finalgame_1": "But now we meet the final part of the game.",
+	"finalgame_2": "I hope besides you get fun thing after do all this thing with me. You got more information too.",
+	"finalgame_3": "Let's Play Again Next Time...!!!"
+  }
+}
