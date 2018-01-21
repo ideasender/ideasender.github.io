@@ -59,7 +59,7 @@
 	"totalCollectAnimal": "Total Collect Animal",
 	
 	"mission1": "Find a way out",
-	"mission2": "Find 20 sheeps",
+	"mission2": "Find 20 sheep",
 	"mission3": "Get out of the forest",
 	"mission4": "Check the big animals at exit",
 	"mission5": "Find 15 wolves",
@@ -67,9 +67,10 @@
 	
 	
 	"opening1_0": "Welcome to the game!",
-	"opening1_1": "Here, you will learn a bit about animal group.",
-	"opening1_2": "Now, you will start as a sheep. It’s getting dark and you have to go home soon. ",
+	"opening1_1": "Here you will learn a bit about animal groups.",
+	"opening1_2": "You will start as a sheep. It’s getting dark and you have to go home soon. ",
 	"opening1_3": "Find your way out to exit the forest!",
+	"opening1_4": "Tap anywhere or use your arrow keyboard to move!"
 	
 	"scene1_0": "Oh no, it seems that the wolves are everywhere!  ",
 	"scene1_1": "You’ll need to go past them to get out. But it’s dangerous!  ",
@@ -77,16 +78,16 @@
 	"scene1_3": "Try to search for sheep voices to help you locate them. Beware of the roaming wolves!",
 	
 	"scene2_0": "Great! Now that you have a large group, the wolves will think twice before attacking.  ",
-	"scene2_1": "Basically, the larger the group, the less likely it will be for any one individual to die. ",
-	"scene2_2": "But sometimes, there are predators who still attacks large group. At least you’ll still have more chance of survival in a big group!  ",
+	"scene2_1": "Basically, the larger the group the less likely it will be for any one individual to die. ",
+	"scene2_2": "Sometimes, there are predators who still attack large group, but you still have more chance of survival in a big group!",
 	"scene2_3": "Now let’s go and exit this forest!",
 	
-	"scene3_0": "Great! You have succesfully exited the forest, thanks to your large group.  ",
+	"scene3_0": "Great! You have successfully exited the forest, thanks to your large group.  ",
 	"scene3_1": "Larger animal group could increase their survivability. Don’t forget about that!  ",
 	
-	"opening2_0": "Now that you’ve known about group’s impact in survivability, let’s move to another animal.  ",
-	"opening2_1": "Now you’ll start as a wolf. Your pack is hungry, and you must collect foods!  ",
-	"opening2_2": "Try to collect as many food as you can.",
+	"opening2_0": "Now that you know about group’s impact in survivability, let’s move to another animal.  ",
+	"opening2_1": "Now you’ll start as a wolf. Your pack is hungry, and you must collect food!",
+	"opening2_2": "Try to collect as much food as you can.",
 	
 	"scene5_0": "Oof! That animal is too big for you alone to handle. ",
 	"scene5_1": "But if you could hunt it, it will surely provide a lot of meat for your pack!  ",
