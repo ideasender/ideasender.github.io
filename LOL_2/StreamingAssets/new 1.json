@@ -85,14 +85,16 @@
 	"opening_1": "It's really hard for me to do this all alone, so I will need your help!",
 	"opening_2": "Here's some animals and plants to take care on the garden.",
 	
-	"firstdeer_0": "What you need to do is just to give them what they need. Easy, right?",
-	"firstdeer_1": "Wait until the animals and the plants show what they needs",
-	"firstdeer_2": "Just drag the item on the box below to them",
-	"firstdeer_3": "All the items that you needed is prepared on the box below",
 	
-	"firstdeernext_0": "Good Work!",
-	"firstdeernext_1": "But don't work slow, or else the animals will run, or worse -- the plants will die!",
-	"firstdeernext_2": "Sometimes you will get trash cards and unneeded cards, just put it into the red recycle bin to make spaces for new cards!",
+	"firstdeer_0": "What you need to do is just to give them what they need. Easy, right?",
+	"firstdeer_1": "All the items that you needed is prepared on the box below",
+V	"firstdeer_2": "The animals and the plant will show what they needs",
+V	"firstdeer_3": "Just drag the item on the box below to them",
+	
+	"firstdeernext_0": "But don't work slow, or else the animals will run, or worse -- the plants will die!",
+X	"firstdeer_3": "Just drag the appropriate cards to the animal/plants when they need something.",
+>	"firstdeernext_1": "Put the trash cards and unneeded cards into the red recycle bin to make spaces for new cards!", 
+						"Sometimes you will get trash cards and unneeded cards, just put it into the red recycle bin to make spaces for new cards!"
 	
 	"firstgrow_0": "Whoa, the goat is growing!",
 	"firstgrow_1": "Just like the other animals, goats will grow if they lived long enough while consuming sufficient foods.",
@@ -121,13 +123,9 @@
 	"deergrowfinalstructure_2": "It is larger than before; that's why some of their body parts are getting larger, too.",
 	"deergrowfinalstructure_3": "Great job so far. Let's find out more about animal growths!",
 	
-	"finalgame_0": "Wah tidak terasa kita sudah melakukan sejauh ini",
-	"finalgame_1": "Waktu kita tidak lama lagi, Ini 30 detik terakhir",
-	"finalgame_2": "Terus semangat!",
-	
-	"finalgameend_0": "Finally, that's it! It has been very fun taking care all of this together with you.",
-	"finalgameend_1": "But now it's time to say goodbye.",
-	"finalgameend_2": "I hope you learned a lot while playing this game with me. You did a great job!",
-	"finalgameend_3": "Thanks for helping me out, and let's play again sometimes!"
+	"finalgame_0": "Finally, that's it! It has been very fun taking care all of this together with you.",
+	"finalgame_1": "But now it's time to say goodbye.",
+	"finalgame_2": "I hope you learned a lot while playing this game with me. You did a great job!",
+	"finalgame_3": "Thanks for helping me out, and let's play again sometimes!"
   }
 }
