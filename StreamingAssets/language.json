@@ -5,7 +5,67 @@
       "readyToPlay": 20,
       "pressContinue": 50,
       "greatJob": 20,
-      "onePlusOne": 30
+      "onePlusOne": 30,
+	  
+	  "btnPlay": 6,
+	  "score": 6,
+	  "trashFull": 10,
+	  "congratulation": 15,
+	  "ok": 4,
+
+	  "water": 10,
+	  "fertilizer": 10,
+	  "worm": 10,
+	  "grass": 10,
+	  "trash": 10,
+
+	  "opening_0": 95,
+	  "opening_1": 71,
+	  "opening_2": 58,
+
+	  "firstdeer_0": 69,
+	  "firstdeer_1": 58,
+	  "firstdeer_2": 83,
+	  
+	  "firstdeernext_0": 78,
+	  "firstdeernext_1": 78,
+	  "firstdeernext_2": 95,
+
+	  "firstgrow_0": 27,
+	  "firstgrow_1": 105,
+	  "firstgrow_2": 73,
+
+	  "firstdeergrowdifferentstructure_0": 82,
+	  "firstdeergrowdifferentstructure_1": 85,
+	  "firstdeergrowdifferentstructure_2": 50,
+
+	  "firstplant_0": 91,
+	  "firstplant_1": 84,
+	  "firstplant_2": 57,
+
+	  "firstduck_0": 45,
+	  "firstduck_1": 115,
+	  "firstduck_2": 53,
+
+	  "firstplantgrow_0": 40,
+	  "firstplantgrow_1": 75,
+	  "firstplantgrow_2": 37,
+	  "firstplantgrow_3": 80,
+	  "firstplantgrow_4": 175,
+
+	  "deergrowfinalstructure_0": 55,
+	  "deergrowfinalstructure_1": 88,
+	  "deergrowfinalstructure_2": 86,
+	  "deergrowfinalstructure_3": 60,
+
+	  "finalgame_0": 85,
+	  "finalgame_1": 33,
+	  "finalgame_2": 78,
+	  
+	  "finalgameend_0": 85,
+	  "finalgameend_1": 33,
+	  "finalgameend_2": 78,
+	  "finalgameend_3": 60
     }
   },
   "en": {
@@ -15,7 +75,7 @@
     "pressContinue": "Press the next button to continue.",
     "onePlusOne": "One + One = Two",
 	
-	"btnPlay": "PLAY",
+	"btnPlay": "Play",
 	"score": "Score",
 	"trashFull": "Trash Full",
 	"congratulation": "Congratulation",
@@ -31,17 +91,18 @@
 	"opening_1": "It's really hard for me to do this all alone, so I will need your help!",
 	"opening_2": "Here's some animals and plants to take care on the garden.",
 	
-	
 	"firstdeer_0": "What you need to do is just to give them what they need. Easy, right?",
-	"firstdeer_1": "All the items that you needed is prepared on the box below",
-	"firstdeer_2": "But don't work slow, or else the animals will run, or worse -- the plants will die!",
-	"firstdeer_3": "Just drag the appropriate cards to the animal/plants when they need something.",
-	"firstdeer_4": "Put the trash cards and unneeded cards into the red recycle bin to make spaces for new cards!",
+	"firstdeer_1": "Wait until the animals and the plants show what they need.",
+	"firstdeer_2": "And then, just drag the item in the box below to the designated animal/plant.",
+	"firstdeer_3": "All the items that you need are prepared in the box!",
+	
+	"firstdeernext_0": "Good Work!",
+	"firstdeernext_1": "But don't work slow, or else the animals will run, or worse -- the plants will die!",
+	"firstdeernext_2": "Sometimes you will get trash cards and unneeded cards, just put it into the red recycle bin to make spaces for new cards!",
 	
 	"firstgrow_0": "Whoa, the goat is growing!",
 	"firstgrow_1": "Just like the other animals, goats will grow if they lived long enough while consuming sufficient foods.",
 	"firstgrow_2": "It's thanks to you for giving them what they need. Keep up the good work!",
-	
 	
 	"firstdeergrowdifferentstructure_0": "At some point, animal will grow while having some changes in their body structure.",
 	"firstdeergrowdifferentstructure_1": "Just as you can see in this goat, it has undergo several different feature changes.",
@@ -66,9 +127,13 @@
 	"deergrowfinalstructure_2": "It is larger than before; that's why some of their body parts are getting larger, too.",
 	"deergrowfinalstructure_3": "Great job so far. Let's find out more about animal growths!",
 	
-	"finalgame_0": "Finally, that's it! It has been very fun taking care all of this together with you.",
-	"finalgame_1": "But now it's time to say goodbye.",
-	"finalgame_2": "I hope you learned a lot while playing this game with me. You did a great job!",
-	"finalgame_3": "Thanks for helping me out, and let's play again sometimes!"
+	"finalgame_0": "Time sure flies when we worked hard, huh?",
+	"finalgame_1": "It’s the last 30 seconds for us!",
+	"finalgame_2": "Good luck and wish you all the best!",
+	
+	"finalgameend_0": "Finally, that's it! It has been very fun taking care all of this together with you.",
+	"finalgameend_1": "But now it's time to say goodbye.",
+	"finalgameend_2": "I hope you learned a lot while playing this game with me. You did a great job!",
+	"finalgameend_3": "Thanks for helping me out, and let's play again sometimes!"
   }
 }

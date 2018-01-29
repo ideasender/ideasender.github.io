@@ -26,8 +26,10 @@
 	  "firstdeer_0": 69,
 	  "firstdeer_1": 58,
 	  "firstdeer_2": 83,
-	  "firstdeer_3": 78,
-	  "firstdeer_4": 95,
+	  
+	  "firstdeernext_0": 78,
+	  "firstdeernext_1": 78,
+	  "firstdeernext_2": 95,
 
 	  "firstgrow_0": 27,
 	  "firstgrow_1": 105,
@@ -59,7 +61,11 @@
 	  "finalgame_0": 85,
 	  "finalgame_1": 33,
 	  "finalgame_2": 78,
-	  "finalgame_3": 60
+	  
+	  "finalgameend_0": 85,
+	  "finalgameend_1": 33,
+	  "finalgameend_2": 78,
+	  "finalgameend_3": 60
     }
   },
   "en": {
@@ -86,9 +92,9 @@
 	"opening_2": "Here's some animals and plants to take care on the garden.",
 	
 	"firstdeer_0": "What you need to do is just to give them what they need. Easy, right?",
-	"firstdeer_1": "Wait until the animals and the plants show what they needs",
-	"firstdeer_2": "Just drag the item on the box below to them",
-	"firstdeer_3": "All the items that you needed is prepared on the box below",
+	"firstdeer_1": "Wait until the animals and the plants show what they need.",
+	"firstdeer_2": "And then, just drag the item in the box below to the designated animal/plant.",
+	"firstdeer_3": "All the items that you need are prepared in the box!",
 	
 	"firstdeernext_0": "Good Work!",
 	"firstdeernext_1": "But don't work slow, or else the animals will run, or worse -- the plants will die!",
@@ -121,9 +127,9 @@
 	"deergrowfinalstructure_2": "It is larger than before; that's why some of their body parts are getting larger, too.",
 	"deergrowfinalstructure_3": "Great job so far. Let's find out more about animal growths!",
 	
-	"finalgame_0": "Wah tidak terasa kita sudah melakukan sejauh ini",
-	"finalgame_1": "Waktu kita tidak lama lagi, Ini 30 detik terakhir",
-	"finalgame_2": "Terus semangat!",
+	"finalgame_0": "Time sure flies when we worked hard, huh?",
+	"finalgame_1": "It’s the last 30 seconds for us!",
+	"finalgame_2": "Good luck and wish you all the best!",
 	
 	"finalgameend_0": "Finally, that's it! It has been very fun taking care all of this together with you.",
 	"finalgameend_1": "But now it's time to say goodbye.",
