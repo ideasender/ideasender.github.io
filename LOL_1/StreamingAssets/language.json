@@ -75,17 +75,17 @@
 	"scene1_0": "Oh no, it seems that the wolves are everywhere!  ",
 	"scene1_1": "You’ll need to go past them to get out. But it’s dangerous!  ",
 	"scene1_2": "You’ll need to find more friends to form a big group to defend yourselves from the wolves!  ",
-	"scene1_3": "Try to search for sheep voices to help you locate them. Beware of the roaming wolves!",
+	"scene1_3": "Try to search for sheep's voices to help you locate them. Beware of the roaming wolves!",
 	
 	"scene2_0": "Great! Now that you have a large group, the wolves will think twice before attacking.  ",
-	"scene2_1": "Basically, the larger the group the less likely it will be for any one individual to die. ",
-	"scene2_2": "Sometimes, there are predators who still attack large group, but you still have more chance of survival in a big group!",
+	"scene2_1": "Gathering in groups will increase an animals's chance of survival.",
+	"scene2_2": "There are predators who still attack large groups, but you still have more chance of survival in a big group!",
 	"scene2_3": "Now let’s go and exit this forest!",
 	
 	"scene3_0": "Great! You have successfully exited the forest, thanks to your large group.  ",
-	"scene3_1": "Larger animal group could increase their survivability. Don’t forget about that!  ",
+	"scene3_1": "Larger animal groups could increase their survivability. Don’t forget about that!",
 	
-	"opening2_0": "Now that you know about group’s impact in survivability, let’s move to another animal.  ",
+	"opening2_0": "Now that you know about a group’s impact on survival, let’s move to another animal.",
 	"opening2_1": "Now you’ll start as a wolf. Your pack is hungry, and you must collect food!",
 	"opening2_2": "Try to collect as much food as you can.",
 	
@@ -98,6 +98,6 @@
 	
 	"scene7_0": "Awesome! You have succesfully collected enough food for your pack.",
 	"scene7_1": "Thanks to the wolf’s pack, they can hunt animals far bigger than themselves.",
-	"scene7_2": "Larger animal group can increase their chance to get more food. Don’t forget about that!"
+	"scene7_2": "Larger animal groups can increase their chance to get more food. Don’t forget about that!"
   }
 }
