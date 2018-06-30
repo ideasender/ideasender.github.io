@@ -119,9 +119,24 @@
 	"firstplantgrow_0": "Do you want to know more about plants?",
 	"firstplantgrow_1": "Plants grow differently from animals. Do you know what are the differences?",
 	"firstplantgrow_2": "First of all, it started as a seed,",
-	"firstplantgrow_3": "After it got enough minerals from soil and water, it will become a sprout.",
-	"firstplantgrow_4": "If they live long enough, they will grow bigger! Each plant grows differently, but usually they will have roots, stems, leaves and sometimes fruit.",
-	
+	"firstplantgrow_3": "But, plant seeds can vary in size. So other seed may be smaller or bigger than this one!",
+	"firstplantgrow_4": "After it got enough minerals from soil and water, it will become a sprout.",
+	"firstplantgrow_5": "If they live long enough, they will grow bigger! Each plant grows differently, but usually they will have roots, stems, leaves and sometimes fruit.",
+
+	"plantstructure_0": "If you observe closely, you’ll see that plants has various structures.",
+	"plantstructure_1": "Each structures have different function.",
+	"plantstructure_2": "Structures outside the plant are called external structures. For example, leaf and stem on a flower.",
+	"plantstructure_3": "Structures inside the plant are called internal structures. For example, cuticle and epidermis in a leaf.",
+
+	"plantphoto_0": "Do you know photosynthesis?",
+	"plantphoto_1": "Photosynthesis happens when plants absorb energy from sunlight through their leaves.",
+	"plantphoto_2": "During photosynthesis, light energy from the sun is changed into stored chemical energy.",
+	"plantphoto_3": "Those energy can be used by the plant to grow.",
+
+	"spores_0": "Fun fact: Some plants reproduce with spores instead of seeds.",
+	"spores_1": "Do you know what are the examples?",
+	"spores_2": "One of the example is moss. Find out more plants which reproduce with spores from your textbook.",
+
 	"deergrowfinalstructure_0": "It's reaching its adult state. Look at how brave it is!",
 	"deergrowfinalstructure_1": "Beside different looks, it has also grown on the inside. Look at the growth of its bone.",
 	"deergrowfinalstructure_2": "It is larger than before, that's why some of their body parts are getting larger, too.",
