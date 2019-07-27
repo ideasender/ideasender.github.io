@@ -68,7 +68,7 @@
         
         "phase2_game5_0": "Uhuk Uhuk...",
         "phase2_game5_1": "There is a secret here.",
-
+        
         
         "phase2_game8_0": "One whole banana consists of 4 blocks",
         "phase2_game8_1": "It divided into 4 smaller pieces.",
@@ -95,7 +95,7 @@
         
         "Phase_2_Cha1_0": "Get Ready!!!",
         "Phase_2_Cha1_1": "Drag the banana the same size as the fraction number on the monkey",
-
+        
         "Phase_2_Cha2_0": "Any fraction that has the same numerator and denominator number",
         "Phase_2_Cha2_1": "Is equal to 1",
         
@@ -208,7 +208,7 @@
         "COLLECT2_Phase_4 Opening_0": "Yeay!!",
         "COLLECT2_Phase_4 Opening_1": "Let's give this report to PokoPoko",
         
-        "CALCULATE_PHASE_4 ===================== " : "=============================="
+        "CALCULATE_PHASE_4 ===================== " : "==============================",
         
         "CALCULATE_Phase_4 Opening_0": "PokoPoko!!",
         "CALCULATE_Phase_4 Opening_1": "I have finished getting your yards data.",
@@ -261,7 +261,7 @@
         "Phase_5 Opening2_0": "The Earth is shaking very strong!",
         "Phase_5 Opening2_1": "Seems like something big is coming...",
         
-        "PHASE_4 BATTLE=================="
+        "PHASE_4 BATTLE==================" : "==========",
         
         "Phase_4 BattleDialogue1_0": "Whoaaahhh!!",
         "Phase_4 BattleDialogue1_1": "Who are you?",
@@ -462,7 +462,7 @@
             "Phase_4 Opening3_1": 150,
             "Phase_4 BattleDialogue6_0": 150,
             "Phase_4 Opening9_0": 150,
-            "Play": "Play",
+            "Play": 5,
             "phase2_game12_1": 150,
             "Phase_3 Opening10_1": 150,
             "greatJob": 20,
@@ -549,3 +549,4 @@
         }
     }
 }
+
