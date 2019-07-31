@@ -1,0 +1,552 @@
+{
+    "en": {
+        "V PHASE_1 ==========================" : "===========================",
+        "phase1_opening_0": "Hello nyan!",
+        "phase1_opening_1": "Welcome to Fractoon City.",
+        "phase1_opening_2": "My name is Poporoppo.",
+        "phase1_opening_3": "I am Pimpo’s math teacher. And also this game's narrator. Nyan..",
+        
+        "phase1_opening2_0": "Hello my name is Pimpo.",
+        "phase1_opening2_1": "I like math very much. Nyan.",
+        
+        "phase1_opening3_0": "What are you doing here Pimpo?",
+        
+        "phase1_opening4_0": "My Mom-nyan asked me to find some vegetables in the forest.",
+        "phase1_opening4_1": "But I need help to arrange the vegetables in the bags.",
+        "phase1_opening4_2": "Do you want to help Pimpo?",
+        
+        "phase1_opening5_0": "Ya, let’s help Pimpo to arrange the vegetables!!",
+        
+        "phase1_opening6_0": "And, i will give you this Number Line Box information to help you compare any fraction easier",
+        
+        "phase1_game2_0": "You have 1 Big Watermelon, and you need to divide it into 2 bags. How you solve it?",
+        
+        "phase1_game3_0": "½ means the object is divided into two pieces.",
+        "phase1_game3_1": "We can use boxes to visualize the fraction.",
+        
+        "phase1_game4_0": "We need a box divided into two smaller boxes with same size.",
+        "phase1_game4_1": "Which box is suitable with our case?",
+        
+        "phase1_game5_0": "Remember. ½ means there is one object divided into two pieces. Try again.",
+        
+        "phase1_game6_0": "Yaps! Just tap the watermelon to cut it!",
+        
+        "phase1_game7_0": "Seems like Pimpo has another watermelon.",
+        
+        "phase1_game8_0": "Ya, but I only have 4 small bags",
+        
+        "phase1_game9_0": "Let's help Pimpo again!",
+        
+        "phase1_game10_0": "Which box is suitable with this case?",
+        
+        "phase1_game11_0": "Are you sure about that answer?",
+        
+        "phase1_game12_0": "Yeah, you are right!!",
+        
+        "phase1_game13_0": "Yohooooo!!",
+        "phase1_game13_1": "All of the watermelons are in the right bags",
+        "phase1_game13_2": "Thank you!! See you",
+        
+        "PHASE_2 =======================" : "==================================",
+        
+        "phase2_opening_0": "Hei Popo, Pupu, Papa and Pipo!",
+        "phase2_opening_1": "What happened? I heard you were screaming",
+        
+        "phase2_opening1_0": "Hei Pimpo! Ya, we found these two bananas.",
+        "phase2_opening1_1": "But we don’t know how to divide it, so there is plenty enough for 4 of us!",
+        
+        "phase2_opening2_0": "Ok I will help you!",
+        "phase2_opening2_1": "Just give me some space.",
+        
+        "phase2_game2_0": "Here we can use some blocks.",
+        
+        "phase2_game3_0": "Choose the boxes that contain part of the banana",
+        
+        "phase2_game4_0": "Woohoo!! Good job, Pimpo!",
+        "phase2_game4_1": "You already split the bananas for all of us.",
+        "phase2_game4_2": "We are happy now.",
+        
+        "phase2_game5_0": "Uhuk Uhuk...",
+        "phase2_game5_1": "There is a secret here.",
+        
+        
+        "phase2_game8_0": "One whole banana consists of 4 blocks",
+        "phase2_game8_1": "It divided into 4 smaller pieces.",
+        "phase2_game8_2": "So, each piece is the same as 1/4 of one whole banana",
+        
+        "phase2_game9_0": "Oh I got it!!!",
+        "phase2_game9_1": "Then each of the monkeys got 1/4 + 1/4",
+        
+        "phase2_game10_0": "That's not stop there",
+        "phase2_game10_1": "Let's merge the two pieces",
+        
+        "phase2_game11_0": "Olalalala",
+        "phase2_game11_1": "It is same size as half of one whole banana",
+        "phase2_game11_2": "Or it is same as 1/2",
+        
+        "phase2_game12_0": "Ya. That's the secret",
+        "phase2_game12_1": "In fraction, if you multiply or divide the numerator and the denominator by the same number",
+        "phase2_game12_2": "It will have the same size",
+        
+        "phase2_game13_0": "I will tell you about it later",
+        "phase2_game13_1": "Now, try my challenge...",
+        
+        "V PHASE_2_CHALLANGE ==============" : "===========================================",
+        
+        "Phase_2_Cha1_0": "Get Ready!!!",
+        "Phase_2_Cha1_1": "Drag the banana the same size as the fraction number on the monkey",
+        
+        "Phase_2_Cha2_0": "Any fraction that has the same numerator and denominator number",
+        "Phase_2_Cha2_1": "Is equal to 1",
+        
+        "Phase_2_Cha3_0": "Time is up!!!",
+        
+        "PHASE_3 ===========================" : "==========================================",
+        
+        "Phase_3 opening_0": "Huhu!!!",
+        "Phase_3 opening_1": "I feel so confused.",
+        "Phase_3 opening_2": "Pimpooo... Pimpooo",
+        "Phase_3 opening_3": "I hope you are here now!",
+        
+        "Phase_3 opening1_0": "Hohoho!!",
+        "Phase_3 opening1_1": "Hohoho!!",
+        
+        "Phase_3 opening2_0": "Hello Lulu!!",
+        "Phase_3 opening2_1": "I am here! Hehe!",
+        "Phase_3 opening2_2": "Do you need my help?",
+        
+        "Phase_3 opening3_0": "Whoaaa!!!",
+        "Phase_3 opening3_1": "You came at the right time",
+        "Phase_3 opening3_2": "Yeah!! Come with me.",
+        
+        "Game_Phase_3 Game ========= " : "========================================",
+        
+        "Game_Phase_3 Opening_0": "I want to buy some fruits here.",
+        "Game_Phase_3 Opening_1": "But, these three fruit sellers gave me different sizes",
+        "Game_Phase_3 Opening_2": "For example, I want to buy Watermelon for 1000 zollar",
+        
+        "Game_Phase_3 Opening1_0": "First shop gave me 2/3 kilos",
+        
+        "Game_Phase_3 Opening2_0": "The second shop gave me 3/4 kilos",
+        
+        "Game_Phase_3 Opening3_0": "And the last shop gave me 1/2 kilos",
+        
+        "Game_Phase_3 Opening4_0": "Then I am confused.",
+        "Game_Phase_3 Opening4_1": "Which seller gave me the largest size",
+        
+        "Game_Phase_3 Opening5_0": "At first you need to multiply each size until they have same denominator.",
+        
+        "Game_Phase_3 Opening6_0": "The fraction that has biggest numerator is the largest when the denominators are the same. ",
+        
+        "Game_Phase_3 Opening7_0": "Wow cool!!",
+        "Game_Phase_3 Opening7_1": "Ok! Now I know what to do next",
+        
+        "Game_Phase_3 Opening8_0": "Tap the fraction that you want to convert.",
+        "Game_Phase_3 Opening8_1": "Use the '/' to decrease the numerator and denominator value.",
+        "Game_Phase_3 Opening8_2": "Use the 'x' to increase the numerator and denominator value.",
+        
+        "Game_Phase_3 Opening9_0": "Ok, It's done",
+        "Game_Phase_3 Opening9_1": "I think you already understand more about fractions",
+        "Game_Phase_3 Opening9_2": "You can use it to solve your problem.",
+        
+        "Game_Phase_3 Opening10_0": "Yeah, thank you, Pimpo!",
+        "Game_Phase_3 Opening10_1": "See you later!",
+        
+        "Game_Phase_3 Opening12_0": "Oops! Remember, the fraction that has the biggest numerator is the largest size",
+        
+        "PHASE_4 ================= " : "==============================",
+        
+        "Phase_4 Opening1_0": "I love my plants!!",
+        "Phase_4 Opening1_1": "I love my garden!",
+        "Phase_4 Opening1_2": "But, I need money!!",
+        "Phase_4 Opening1_3": "Dollar oh dollar!!",
+        
+        "Phase_4 Opening3_0": "Hooiii!! hoii!!!",
+        "Phase_4 Opening3_1": "Pokoo Pokooo!!",
+        
+        "Phase_4 Opening4_0": "Hoiii Pimpoo!!",
+        "Phase_4 Opening4_1": "Stop right there!!",
+        
+        "Phase_4 Opening5_0": "Hmm okay okay!!!",
+        "Phase_4 Opening5_1": "Why? Can i help you?",
+        
+        "Phase_4 Opening6_0": "I want to sell one of my yard",
+        "Phase_4 Opening6_1": "Can you help me to count my yard that has least amount of flower?",
+        "Phase_4 Opening6_2": "I need to go home now to check my cows",
+        
+        "Phase_4 Opening7_0": "Ok PokoPoko",
+        "Phase_4 Opening7_1": "Sure, i will help you!!",
+        
+        "Phase_4 Opening8_0": "Hmm.. I don't know how to calculate it",
+        "Phase_4 Opening8_1": "Hmm...",
+        
+        "Phase_4 Opening9_0": "Uhuk Uhuk",
+        "Phase_4 Opening9_1": "Try to use same square like you did before, Pimpo!",
+        
+        "Phase_4 Opening10_0": "Woh!! Poporoppo!!",
+        "Phase_4 Opening10_1": "Hei i didn't see you on the Fractoon Market",
+        "Phase_4 Opening10_2": "Where are you going?",
+        
+        "Phase_4 Opening11_0": "Hmm. He was gone again",
+        
+        "Phase_4 Opening12_0": "Hmm. Use same square",
+        "Phase_4 Opening12_1": "Hmm.. Wait..",
+        "Phase_4 Opening12_2": "Look!!!",
+        
+        "Phase_4 Opening14_0": "PokoPoko has 3 Yards",
+        "Phase_4 Opening14_1": "Please help me to complete this paper data",
+        
+        "Phase_4 Opening15_0": "Yeay! Lets go to another yard",
+        
+        "COLLECT_PHASE_4 ================= " : "==================================",
+        
+        "COLLECT_Phase_4 Opening_0": "Fiuuhh!!",
+        "COLLECT_Phase_4 Opening_1": "One more",
+        
+        "COLLECT2_PHASE_4 ==================== " : "==================================",
+        
+        "COLLECT2_Phase_4 Opening_0": "Yeay!!",
+        "COLLECT2_Phase_4 Opening_1": "Let's give this report to PokoPoko",
+        
+        "CALCULATE_PHASE_4 ===================== " : "==============================",
+        
+        "CALCULATE_Phase_4 Opening_0": "PokoPoko!!",
+        "CALCULATE_Phase_4 Opening_1": "I have finished getting your yards data.",
+        "CALCULATE_Phase_4 Opening_2": "Now we just need to calculate it",
+        
+        "CALCULATE_Phase_4 Opening2_0": "But I don't understand how to calculate it",
+        
+        "CALCULATE_Phase_4 Opening3_0": "I can do it for you",
+        
+        "CALCULATE_Phase_4 Opening4_0": "First! I will convert the data to fractions",
+        "CALCULATE_Phase_4 Opening4_1": "Let's use the filled data  as Numerator",
+        "CALCULATE_Phase_4 Opening4_2": "Then we add the filled and empty parts as the denominator.",
+        
+        "CALCULATE_Phase_4 Opening5_0": "Now! Help me to make it have the same denominator",
+        
+        "CALCULATE_Phase_4 Opening6_0": "Yaps! Now let's add that fraction",
+        "CALCULATE_Phase_4 Opening6_1": "Both of them have same denominator right?",
+        "CALCULATE_Phase_4 Opening6_2": "We use it as the denominator value",
+        "CALCULATE_Phase_4 Opening6_3": "Then we add both numerators to get the numerator value",
+        
+        "CALCULATE_Phase_4 Opening7_0": "Wow! Look",
+        "CALCULATE_Phase_4 Opening7_1": "It has  the same numerator and denominator",
+        "CALCULATE_Phase_4 Opening7_2": "So, it can be converted to 1.",
+        
+        "CALCULATE_Phase_4 Opening8_0": "Now try to add the fractions from another yard's data",
+        
+        "CALCULATE_Phase_4 Opening10_0": "Let's choose that has smalles fraction size",
+        
+        "CALCULATE_Phase_4 Opening11_0": "Don't forget to make them have same denominator",
+        
+        "CALCULATE_Phase_4 Opening13_0": "Are you sure about your answer?",
+        
+        "CALCULATE_Phase_4 Opening14_0": "I got the result PokoPoko",
+        
+        "CALCULATE_Phase_4 Opening15_0": "Wow Great!!!",
+        "CALCULATE_Phase_4 Opening15_1": "Now I can decide which yard I will sell!!",
+        "CALCULATE_Phase_4 Opening15_2": "Thank you very much Pimpo!!",
+        
+        "CALCULATE_Phase_4 Opening16_0": "You are welcome!",
+        "CALCULATE_Phase_4 Opening16_1": "I like to help other people!!",
+        "CALCULATE_Phase_4 Opening16_2": "See you PokoPoko",
+        
+        "CALCULATE_Phase_4 Opening19_0": "Uhuk uhuk!!",
+        
+        "PHASE_5_CINEMATIC================" : "=========",
+        
+        "Phase_5 Opening_0": "Something happened near Pimpo's house",
+        "Phase_5 Opening_1": "Pimpo never feel something link this before",
+        
+        "Phase_5 Opening2_0": "The Earth is shaking very strong!",
+        "Phase_5 Opening2_1": "Seems like something big is coming...",
+        
+        "PHASE_4 BATTLE==================" : "==========",
+        
+        "Phase_4 BattleDialogue1_0": "Whoaaahhh!!",
+        "Phase_4 BattleDialogue1_1": "Who are you?",
+        
+        "Phase_4 BattleDialogue2_0": "What??",
+        "Phase_4 BattleDialogue2_1": "Why??",
+        
+        "Phase_4 BattleDialogue3_0": "Uhuk Uhuk!!",
+        "Phase_4 BattleDialogue3_1": "Huohohoho!!",
+        "Phase_4 BattleDialogue3_2": "I see your math knowledge is growing time by time",
+        "Phase_4 BattleDialogue3_3": "This is test from me as your teacher",
+        
+        "Phase_4 BattleDialogue4_0": "Hoho, ok! I promise i won't failed",
+        
+        "Phase_4 BattleDialogue5_0": "Try this!",
+        
+        "Phase_4 BattleDialogue6_0": "Is it too hard for you?",
+        "Phase_4 BattleDialogue6_1": "Try my last attack.",
+        
+        "Phase_4 BattleDialogue7_0": "I'll do my best",
+        
+        "Phase_4 BattleDialogue8_0": "Uhuk uhuk!!!",
+        "Phase_4 BattleDialogue8_1": "Ok! I stop it here. You are good enough, but don't stop learning",
+        
+        "Phase_4 BattleDialogue9_0": "This is very fun",
+        "Phase_4 BattleDialogue9_1": "I will learn more, and i'll come to see you to test me again",
+        
+        "Phase_4 BattleDialogue10_0": "Yes, Pimpo. Let's do this again later",
+        
+        "Phase_4 BattleDialogue11_0": "Yes!!!",
+        
+        "Phase_4 BattleDialogue12_0": "What is that??",
+        "Phase_4 BattleDialogue12_1": "Heiii Stop!!",
+        "Phase_4 BattleDialogue12_2": "What are you doing?",
+        
+        "Phase_4 BattleDialogue13_0": "Hmm ok I will stop you!!!",
+        "Phase_4 BattleDialogue13_1": "Hmm",
+        "Phase_4 BattleDialogue13_2": "I remember Poporoppo gave me a Fract Tank",
+        
+        "Phase_4 BattleDialogue14_0": "Stop right there!!!",
+        
+        
+        "Timer": "Timer :",
+        "onePlusOne": "One + One = Two",
+        "welcome": "Welcome!",
+        "readyToPlay": "Are you ready to play?",
+        "Play": "Play",
+        "greatJob": "Great job!",
+        "press Continue": "Press the next button to continue.",
+        "Yeay" : "Yeay!!",
+        "You are awesome" : "You are awesome",
+        "Lets_Learn_Together " : "Let's learn math together",
+        "See_you_next_time" : "See you next time",
+        "numberline" : "Number Line",
+        "bigger" : "Bigger",
+        "smaller" : "Smaller",
+        "finallyarrived" : "Finally Pimpo arrived at home!"
+    },
+    "_meta": {
+        "maxChars": {
+            "finallyarrived" : 35,
+            "numberline" : 20,
+            "bigger" : 10,
+            "smaller" : 10,
+            "Timer": 8,
+            "Lets_Learn_Together " : 24,
+            "See_you_next_time" : 24,
+            "phase1_game12_0": 150,
+            "Phase_3 opening2_2": 150,
+            "Conratulations": 150,
+            "Phase_5 Opening2_2": 150,
+            "phase2_game3_1": 150,
+            "phase2_game13_0": 150,
+            "Phase_4 Opening7_0": 150,
+            "phase1_opening_1": 150,
+            "Phase_5 Opening_2": 150,
+            "Phase_4 Opening11_2": 150,
+            "Phase_3 opening_3": 150,
+            "Phase_4 Opening1_1": 150,
+            "phase1_game2_1": 150,
+            "Phase_4 Opening10_1": 150,
+            "phase2_game6_1": 150,
+            "Phase_4 BattleDialogue11_1": 150,
+            "Phase_4 Opening16_0": 150,
+            "Phase_2_Cha3_1": 150,
+            "Phase_4 Opening5_1": 150,
+            "Phase_4 Opening7_1": 150,
+            "phase1_game8_1": 150,
+            "phase1_game8_0": 150,
+            "phase1_game13_0": 150,
+            "Phase_4 BattleDialogue13_2": 150,
+            "Phase_4 Opening19_1": 150,
+            "phase2_game11_0": 150,
+            "Phase_2_Cha1_2": 150,
+            "phase1_game9_0": 150,
+            "Phase_4 BattleDialogue2_0": 150,
+            "phase1_opening4_1": 150,
+            "phase1_opening5_0": 150,
+            "phase1_opening_3": 150,
+            "Phase_4 BattleDialogue2_1": 150,
+            "Phase_3 Opening10_0": 150,
+            "phase1_game4_0": 150,
+            "phase1_game10_0": 150,
+            "Phase_4 Opening9_1": 150,
+            "phase2_opening1_1": 150,
+            "Phase_3 Opening4_1": 150,
+            "Phase_3 opening_0": 150,
+            "onePlusOne": 30,
+            "Phase_4 Opening4_0": 150,
+            "Phase_5 Opening_0": 150,
+            "phase2_game13_4": 150,
+            "Phase_4 BattleDialogue9_2": 150,
+            "Phase_4 Opening14_0": 150,
+            "phase1_opening2_0": 150,
+            "phase2_game3_0": 150,
+            "Phase_3 opening3_1": 150,
+            "Phase_4 Opening12_1": 150,
+            "Phase_4 Opening13_0": 150,
+            "phase1_game4_1": 150,
+            "Phase_3 Opening5_0": 150,
+            "Phase_4 Opening3_0": 150,
+            "Phase_3 opening2_1": 150,
+            "Phase_3 Opening7_1": 150,
+            "Phase_4 BattleDialogue10_0": 150,
+            "Phase_4 Opening2_1": 150,
+            "phase1_game13_2": 150,
+            "phase1_game2_0": 150,
+            "Phase_3 Opening5_2": 150,
+            "Phase_4 Opening5_0": 150,
+            "phase1_opening3_0": 150,
+            "phase1_opening_0": 150,
+            "Phase_3 Opening_1": 150,
+            "phase1_opening3_1": 150,
+            "Phase_4 Opening10_2": 150,
+            "Phase_4 BattleDialogue9_4": 150,
+            "welcome": 20,
+            "Phase_4 Opening8_0": 150,
+            "Phase_2_Cha1_1": 150,
+            "phase2_opening_1": 150,
+            "phase2_game7_1": 150,
+            "Phase_4 BattleDialogue1_2": 150,
+            "phase2_game5_1": 150,
+            "Phase_4 Opening14_1": 150,
+            "Phase_4 BattleDialogue9_0": 150,
+            "Phase_4 BattleDialogue5_1": 150,
+            "Phase_4 BattleDialogue11_0": 150,
+            "phase1_game7_1": 150,
+            "Phase_4 Opening1_3": 150,
+            "phase1_opening3_2": 150,
+            "phase2_opening2_0": 150,
+            "Phase_3 Opening8_0": 150,
+            "phase2_game11_1": 150,
+            "phase1_game7_0": 150,
+            "Phase_4 BattleDialogue1_3": 150,
+            "phase2_game7_0": 150,
+            "Phase_3 Opening4_0": 150,
+            "Phase_4 BattleDialogue3_3": 150,
+            "Phase_4 Opening6_2": 150,
+            "Phase_4 BattleDialogue13_0": 150,
+            "Phase_3 Opening_0": 150,
+            "Phase_5 Opening2_0": 150,
+            "phase1_game3_0": 150,
+            "phase2_opening1_0": 150,
+            "Phase_3 Opening8_1": 150,
+            "phase1_game3_2": 150,
+            "phase1_game3_1": 150,
+            "Phase_4 BattleDialogue1_0": 150,
+            "Phase_4 Opening_0": 150,
+            "Phase_4 Opening4_2": 150,
+            "Phase_4 BattleDialogue4_1": 150,
+            "Phase_4 Opening10_0": 150,
+            "phase2_game6_0": 150,
+            "Phase_4 Opening17_0": 150,
+            "Phase_3 opening1_0": 150,
+            "Phase_4 BattleDialogue3_2": 150,
+            "Phase_4 Opening_2": 150,
+            "phase2_game11_2": 150,
+            "Phase_4 BattleDialogue3_1": 150,
+            "phase2_game10_1": 150,
+            "Phase_4 BattleDialogue9_3": 150,
+            "Phase_2_Cha2_0": 150,
+            "Phase_4 BattleDialogue13_1": 150,
+            "Phase_4 Opening11_1": 150,
+            "Phase_4 BattleDialogue8_0": 150,
+            "phase1_opening2_1": 150,
+            "Phase_3 opening1_1": 150,
+            "Phase_3 Opening12_0": 150,
+            "Phase_3 Opening2_0": 150,
+            "readyToPlay": 20,
+            "phase1_game13_1": 150,
+            "phase2_opening2_1": 150,
+            "phase2_game4_1": 150,
+            "phase2_game4_3": 150,
+            "Phase_2_Cha2_1": 150,
+            "Phase_4 Opening8_1": 150,
+            "Phase_4 BattleDialogue9_1": 150,
+            "phase2_game4_0": 150,
+            "Phase_4 Opening3_1": 150,
+            "Phase_4 BattleDialogue6_0": 150,
+            "Phase_4 Opening9_0": 150,
+            "Play": 5,
+            "phase2_game12_1": 150,
+            "Phase_3 Opening10_1": 150,
+            "greatJob": 20,
+            "phase2_game12_0": 150,
+            "phase2_game12_2": 150,
+            "phase2_game2_1": 150,
+            "Phase_3 opening3_2": 150,
+            "Phase_3 Opening3_0": 150,
+            "Phase_4 Opening18_1": 150,
+            "phase2_opening_0": 150,
+            "Phase_4 BattleDialogue5_0": 150,
+            "phase2_game7_2": 150,
+            "phase2_game5_0": 150,
+            "Phase_3 opening3_0": 150,
+            "Phase_4 BattleDialogue6_1": 150,
+            "Phase_3 Opening5_1": 150,
+            "Phase_4 Opening6_1": 150,
+            "press Continue": 50,
+            "phase1_opening_2": 150,
+            "phase2_game9_1": 150,
+            "phase1_game11_1": 150,
+            "Phase_2_Cha1_0": 150,
+            "Phase_4 BattleDialogue3_0": 150,
+            "Phase_4 BattleDialogue12_2": 150,
+            "Phase_4 Opening11_0": 150,
+            "Phase_4 Opening4_1": 150,
+            "Phase_3 Opening6_0": 150,
+            "phase2_game9_0": 150,
+            "Phase_4 Opening15_2": 150,
+            "phase2_game13_1": 150,
+            "phase2_game2_0": 150,
+            "Phase_2_Cha3_0": 150,
+            "phase1_game6_0": 150,
+            "Phase_4 BattleDialogue12_1": 150,
+            "Phase_4 BattleDialogue1_1": 150,
+            "Phase_4 Opening18_0": 150,
+            "Phase_4 Opening2_0": 150,
+            "Phase_4 Opening15_1": 150,
+            "Phase_4 Opening_1": 150,
+            "phase1_game11_0": 150,
+            "Phase_3 Opening8_2": 150,
+            "phase1_opening4_2": 150,
+            "Phase_4 Opening16_1": 150,
+            "phase2_game10_0": 150,
+            "Phase_3 opening_2": 150,
+            "Phase_3 Opening_2": 150,
+            "Phase_4 BattleDialogue7_0": 150,
+            "Phase_4 BattleDialogue4_2": 150,
+            "Phase_3 opening2_0": 150,
+            "Phase_3 Opening1_0": 150,
+            "Phase_4 Opening6_3": 150,
+            "Phase_4 Opening12_0": 150,
+            "phase2_game13_2": 150,
+            "Phase_3 opening_1": 150,
+            "Phase_4 BattleDialogue14_0": 150,
+            "Phase_4 BattleDialogue12_0": 150,
+            "phase2_game8_1": 150,
+            "Phase_4 Opening3_2": 150,
+            "phase1_opening4_0": 150,
+            "Phase_4 Opening6_0": 150,
+            "phase1_game6_1": 150,
+            "Phase_5 Opening_1": 150,
+            "Phase_4 Opening1_2": 150,
+            "Phase_4 Opening7_2": 150,
+            "Phase_2_Cha2_2": 150,
+            "Phase_4 Opening12_2": 150,
+            "Phase_4 Opening15_0": 150,
+            "Phase_4 Opening1_0": 150,
+            "phase2_game4_2": 150,
+            "phase1_game5_0": 150,
+            "Phase_4 Opening17_1": 150,
+            "phase2_game8_0": 150,
+            "phase2_game8_2": 150,
+            "Phase_4 Opening_3": 150,
+            "Phase_3 Opening7_0": 150,
+            "Phase_4 BattleDialogue4_0": 150,
+            "phase2_opening2_2": 150,
+            "Phase_4 BattleDialogue10_1": 150,
+            "Phase_5 Opening2_1": 150,
+            "Phase_3 opening4_0": 150,
+            "Phase_4 BattleDialogue8_1": 150,
+            "phase2_game13_3": 150,
+            "Phase_4 Opening19_0": 150
+        }
+    }
+}
+
