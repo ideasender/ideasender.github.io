@@ -1,0 +1,294 @@
+{
+  "_meta": {
+    "maxChars": {
+        "Opening_1_0": 80,
+        "Opening_1_1": 80,
+        "Opening_1_2": 80,
+        "Opening_1_3": 80,
+        "Opening_1_4": 80,
+        "Opening_1_5": 80,
+        
+        "Opening_2_0": 80,
+        "Opening_2_1": 80,
+        
+        "Opening_3_0": 80,
+        "Opening_3_1": 80,
+        
+        "Opening_4_0": 80,
+        "Opening_4_1": 80,
+        
+        "Opening_5_0": 80,
+        "Opening_5_1": 80,
+        
+        "Opening_6_0": 80,
+        "Opening_6_1": 80,
+        
+        "Opening_7_0": 80,
+        
+        "Opening_8_0": 80,
+        
+        "Opening_9_0": 80,
+        
+        "Opening_10_0": 80,
+        
+        "Opening_11_0": 80,
+        
+        "Opening_12_0": 80,
+        "Opening_12_1": 80,
+        
+        "dressingRoom": 20,
+        "choose_char": 20,
+        "check_answer": 20,
+        
+        "get_probabilities_0" : 80,
+        "get_probabilities_1" : 80,
+        "get_probabilities_2" : 80,
+        
+        
+        "Charname_Opening_1_0": 80,
+        "Charname_Opening_1_1": 80,
+        "Charname_Opening_1_2": 80,
+        
+        "Charname_Opening_2_0": 80,
+        
+        "Charname_Opening_3_0": 80,
+        "Charname_Opening_3_1": 80,
+        
+        "Charname_Opening_4_0": 80,
+        "Charname_Opening_4_1": 80,
+        "Charname_Opening_4_2": 80,
+        
+        
+        "Kitchen_1_0": 80,
+        "Kitchen_1_1": 80,
+        "Kitchen_1_2": 80,
+        "Kitchen_1_3": 80,
+        
+        "Kitchen_3_0": 80,
+        
+        "Kitchen_4_0": 80,
+        "Kitchen_4_1": 80,
+        "Kitchen_4_2": 80,
+        "Kitchen_4_3": 80,
+        
+        "Kitchen_5_0": 80,
+        "Kitchen_5_1": 80,
+        
+        "Kitchen_6_0": 80,
+        
+        "Kitchen_7_0": 80,
+        
+        "drag_to_correct_place": 30,
+        "ingredients": 15,
+        "seasoning": 15,
+        
+        "carrot": 10,
+        "cucumber": 10,
+        "meat": 10,
+        "tomato": 10,
+        
+        "chili": 10,
+        "garlic": 10,
+        "union": 10,
+        
+        
+        "Cook_1_0": 80,
+        "Cook_1_1": 80,
+        "Cook_1_2": 80,
+        
+        "Cook_2_0": 80,
+        "Cook_2_1": 80,
+        
+        "Cook_3_0": 80,
+        "Cook_3_1": 80,
+        "Cook_3_2": 80,
+        
+        "Cook_4_0": 80,
+        "Cook_4_1": 80,
+        "Cook_4_2": 80,
+        
+        "Cook_5_0": 80,
+        "Cook_5_1": 80,
+        "Cook_5_2": 80,
+        
+        "Cook_6_0": 80,
+        "Cook_6_1": 80,
+        
+        "chance_select_0": 60,
+        "chance_select_1": 60,
+        "chance_select_2": 60,
+        "chance_select_3": 60,
+        "chance_select_4": 60,
+        
+        "configuring_0": 80,
+        "configuring_1": 80,
+        "configuring_2": 80,
+        
+        "chicken": 10,
+        "beef": 10,
+        "shrimp": 10,
+        
+        "answer_true": 15,
+        "answer_false": 15,
+        
+        "Conratulations": 20,
+        "play_again": 30,
+        
+        "Chef_Master": 15,
+        "Play": 5,
+        "onePlusOne": 15,
+        "welcome": 15,
+        "readyToPlay": 15,
+        "greatJob": 15,
+        "pressContinue": 15
+      
+    }
+  },
+  "en": {
+    "Opening_1_0": "Hello, new Chef!",
+    "Opening_1_1": "Welcome to PROPOPO Restaurant!!",
+    "Opening_1_2": "This is the best restaurant in MATH City.",
+    "Opening_1_3": "Our Boss really loves the Probabilities section!",
+    "Opening_1_4": "Then, I will teach you how to be a chef here and learn about probabilities.",
+    "Opening_1_5": "Let’s create your character.",
+    
+    "Opening_2_0": "There are 3 things that you need to choose.",
+    "Opening_2_1": "First, let's choose body shape.",
+    
+    "Opening_3_0": "You can choose the character randomly.",
+    "Opening_3_1": "Now, answer my question!",
+    
+    "Opening_4_0": "You right!",
+    "Opening_4_1": "Next there are 3 shape of eyes that you can choose",
+    
+    "Opening_5_0": "Combined with three body shape before",
+    "Opening_5_1": "Now, answer my next question",
+    
+    "Opening_6_0": "And the last let's set your mouth",
+    "Opening_6_1": "There are 3 types of mouth",
+    
+    "Opening_7_0": "So, can you guess how many form possibilities that you can choose??",
+    
+    "Opening_8_0": "Now! Choose your character!!",
+    
+    "Opening_9_0": "Oops! Try again. Clue: It has 3 possibilities!",
+    
+    "Opening_10_0": "Oops! Try again. Clue: It has 9 possibilities!",
+    
+    "Opening_11_0": "Oops! Try again. Clue: It has 27 possibilities!",
+    
+    "Opening_12_0": "Yeay!! You looked so cool",
+    "Opening_12_1": "Now, let's go to the kitchen",
+    
+    "dressingRoom": "Dressing Room",
+    "choose_char": "Choose Character",
+    "check_answer": "CHECK ANSWER",
+    
+    "get_probabilities_0" : "What are the chances of selecting the potato shape?",
+    "get_probabilities_1" : "What are the chances of selecting the potato shape and aye with glasses?",
+    "get_probabilities_2" : "What are the chances of selecting the potato shape, aye with glasses and smiley mouth?",
+
+    
+    "Charname_Opening_1_0": "Pick your first name and last name.",
+    "Charname_Opening_1_1": "There are 5 first names...",
+    "Charname_Opening_1_2": "And 4 last names.",
+    
+    "Charname_Opening_2_0": "Let's use a punnett square to see the probabilities of names that can be created.",
+    
+    "Charname_Opening_3_0": "There are 5 times 4 probabilities here.",
+    "Charname_Opening_3_1": "Pick your name!",
+    
+    "Charname_Opening_4_0": "Great!!",
+    "Charname_Opening_4_1": "Great, now I know what to call you!",
+    "Charname_Opening_4_2": "Let's go to the kitchen.",
+
+    
+    
+    
+    
+    
+    
+    "Kitchen_1_0": "Okay, new Chef!",
+    "Kitchen_1_1": "Welcome to the kitchen!",
+    "Kitchen_1_2": "We have two bags",
+    "Kitchen_1_3": "First bag contains ingredients",
+    
+    "Kitchen_3_0": "Then the second bag contains seasonings",
+    
+    "Kitchen_4_0": "We want to combine the ingredients and seasonings to the empty boxes",
+    "Kitchen_4_1": "Each box can consist of one ingredient and one seasoning,",
+    "Kitchen_4_2": "Now help me to combine it!",
+    "Kitchen_4_3": "It is easy if you already know about punnet square",
+    
+    "Kitchen_5_0": "Great!!",
+    "Kitchen_5_1": "Now, answer this questions!!",
+    
+    "Kitchen_6_0": "Oops! Are you sure about that?",
+    
+    "Kitchen_7_0": "Great! Now let's go to the restaurant",
+    
+    "drag_to_correct_place": "Drag it to correct place",
+    "ingredients": "Ingredients",
+    "seasoning": "Seasonings",
+    
+    "carrot": "Carrot",
+    "cucumber": "Cucumber",
+    "meat": "Meat",
+    "tomato": "Tomato",
+    
+    "chili": "Chili",
+    "garlic": "Garlic",
+    "union": "Union",
+    
+    
+    "Cook_1_0": "Oh, no!! I'm forgetting.",
+    "Cook_1_1": "Today is a ghostly day for this restaurant!",
+    "Cook_1_2": "Wait!",
+    
+    "Cook_2_0": "Hmm... ya! They are coming!",
+    "Cook_2_1": "They are ghosts!",
+    
+    "Cook_3_0": "But it is quite fun",
+    "Cook_3_1": "Just follow my command!!",
+    "Cook_3_2": "Wohoo! they are coming",
+    
+    "Cook_4_0": "Hmm ok!",
+    "Cook_4_1": "Next little bit different!",
+    "Cook_4_2": "Follow my command! You can drag Food from menu to the table",
+    
+    "Cook_5_0": "Yeay!!",
+    "Cook_5_1": "Everything is done",
+    "Cook_5_2": "It is fun, right?",
+    
+    "Cook_6_0": "From now you are accepted as full time employee here",
+    "Cook_6_1": "Conratulations!!!",
+    
+    "chance_select_0": "What are the chances the ghost will choose CHICKEN?",
+    "chance_select_1": "What are the chances the ghost will choose BEEF?",
+    "chance_select_2": "What are the chances the ghost will choose SHRIMP?",
+    "chance_select_3": "What are the chances the ghost will choose BEEF?",
+    "chance_select_4": "What are the chances the ghost will choose CHICKEN?",
+    
+    "configuring_0": "Set the foods has 1/5 chance the ghost will select the CHICKEN",
+    "configuring_1": "Set the foods has 2/5 chance the ghost will select the BEEF",
+    "configuring_2": "Set the foods has 2/3 chance the ghost will select the SHRIMP",
+    
+    "chicken": "CHICKEN",
+    "beef": "BEEF",
+    "shrimp": "SHRIMP",
+    
+    "answer_true": "Answer true",
+    "answer_false": "Answer false",
+    
+    "Conratulations": "CONGRATULATIONS!",
+    "play_again": "Let's play again later!",
+    
+    "Chef_Master": "Chef Master",
+    "Play": "Play",
+    "onePlusOne": "One + One = Two",
+    "welcome": "Welcome!",
+    "readyToPlay": "Are you ready to play?",
+    "greatJob": "Great job!",
+    "pressContinue": "Press the next button to continue."
+  }
+}
