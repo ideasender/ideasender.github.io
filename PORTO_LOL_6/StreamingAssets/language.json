@@ -146,7 +146,7 @@
   },
   "en": {
     "Opening_1_0": "Hello, new Chef!",
-    "Opening_1_1": "Welcome to PROPOPO Restaurant!!",
+    "Opening_1_1": "Welcome to Poporoppo Restaurant!!",
     "Opening_1_2": "This is the best restaurant in MATH City.",
     "Opening_1_3": "Our Boss really loves the Probabilities section!",
     "Opening_1_4": "Then, I will teach you how to be a chef here and learn about probabilities.",
@@ -167,7 +167,7 @@
     "Opening_6_0": "And the last let's set your mouth",
     "Opening_6_1": "There are 3 types of mouth",
     
-    "Opening_7_0": "So, can you guess how many form possibilities that you can choose??",
+    "Opening_7_0": "Try to answer my question!",
     
     "Opening_8_0": "Now! Choose your character!!",
     
@@ -269,9 +269,9 @@
     "chance_select_3": "What are the chances the ghost will choose BEEF?",
     "chance_select_4": "What are the chances the ghost will choose CHICKEN?",
     
-    "configuring_0": "Set the foods has 1/5 chance the ghost will select the CHICKEN",
-    "configuring_1": "Set the foods has 2/5 chance the ghost will select the BEEF",
-    "configuring_2": "Set the foods has 2/3 chance the ghost will select the SHRIMP",
+    "configuring_0": "Set the foods until it has 1/5 chance the ghost will select the CHICKEN",
+    "configuring_1": "Set the foods until it has 2/5 chance the ghost will select the BEEF",
+    "configuring_2": "Set the foods until it has 2/3 chance the ghost will select the SHRIMP",
     
     "chicken": "CHICKEN",
     "beef": "BEEF",
