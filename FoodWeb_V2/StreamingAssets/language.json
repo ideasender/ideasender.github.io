@@ -193,7 +193,7 @@
     "ending_sheep_dikit_wolf_banyak_4" : "One population's condition will affect the others in the food web.",
     "ending_sheep_dikit_wolf_banyak_5" : "Maybe you can try rescuing more animals next time!",
 
-    "ending_sheep_wolf_banyak_0" : "You rescued a lot of goats and wolves</color>, so the lion population stay large.",
+    "ending_sheep_wolf_banyak_0" : "You rescued a lot of goats and wolves, so the lion population stay large.",
     "ending_sheep_wolf_banyak_1" : "The carnivores needs other animals as their source of energy,",
     "ending_sheep_wolf_banyak_2" : "so their survivability depends on other's population.",
     "ending_sheep_wolf_banyak_3" : "One population's condition will affect the others in the food web.",
@@ -211,9 +211,9 @@
     "endinfo-1_1" : "Here's some other variations of food chain!",
     "endinfo-1_2" : "Can you guess what is the continuation of this food webs?",
 
-    "EndInfo-2_0" : "Do you know?",
-    "EndInfo-2_1" : "Here's some other variations of food chain!",
-    "EndInfo-2_2" : "The sea is also an interesting place to observe food webs environment.",
+    "endinfo-2_0" : "Do you know?",
+    "endinfo-2_1" : "Here's some other variations of food chain!",
+    "endinfo-2_2" : "The sea is also an interesting place to observe food webs environment.",
 
     "EndInfo-3_0" : "Do you know?",
     "EndInfo-3_1" : "Here's a pyramid of food!",
