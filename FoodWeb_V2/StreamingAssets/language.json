@@ -122,6 +122,9 @@
   },
   "en": 
   {
+    "new_game" : "New Game",
+    "continue" : "Continue",
+
     "tap_anywhere" : "- Tap anywhere to start -",
     "loading" : "Loading",
 
