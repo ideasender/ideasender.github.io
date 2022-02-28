@@ -3,6 +3,9 @@
   {
     "maxChars": 
     {
+      "new_game" : 20,
+      "continue" : 20,
+
       "tap_anywhere": 30,
       "loading": 20,
       "score": 20,
