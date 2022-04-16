@@ -156,7 +156,38 @@
       "natquest-6_trueanswer" : 40,
       "natquest-6_wronganswer_0" : 40, 
       "natquest-6_wronganswer_1" : 40, 
-      "natquest-6_wronganswer_2" : 40
+      "natquest-6_wronganswer_2" : 40,
+
+      "natquest-7_question" : 190,
+      "natquest-7_trueanswer" : 40,
+      "natquest-7_wronganswer_0" : 40, 
+      "natquest-7_wronganswer_1" : 40, 
+      "natquest-7_wronganswer_2" : 40,
+
+      "natquest-8_question" : 190,
+      "natquest-8_trueanswer" : 40,
+      "natquest-8_wronganswer_0" : 40, 
+      "natquest-8_wronganswer_1" : 40, 
+      "natquest-8_wronganswer_2" : 40,
+
+      "natquest-9_question" : 190,
+      "natquest-9_trueanswer" : 40,
+      "natquest-9_wronganswer_0" : 40, 
+      "natquest-9_wronganswer_1" : 40, 
+      "natquest-9_wronganswer_2" : 40,
+
+      "natquest-10_question" : 190,
+      "natquest-10_trueanswer" : 40,
+      "natquest-10_wronganswer_0" : 40, 
+      "natquest-10_wronganswer_1" : 40, 
+      "natquest-10_wronganswer_2" : 40,
+
+      "natquest-11_question" : 190,
+      "natquest-11_trueanswer" : 40,
+      "natquest-11_wronganswer_0" : 40, 
+      "natquest-11_wronganswer_1" : 40, 
+      "natquest-11_wronganswer_2" : 40
+
     }
   },
   "en": 
@@ -314,6 +345,36 @@
     "natquest-6_trueanswer" : "Plant",
     "natquest-6_wronganswer_0" : "Carnivore", 
     "natquest-6_wronganswer_1" : "Herbivore", 
-    "natquest-6_wronganswer_2" : "Omnivore"
+    "natquest-6_wronganswer_2" : "Omnivore",
+
+    "natquest-7_question" : "A wolf eats a sheep. Who is the predator?",
+    "natquest-7_trueanswer" : "Wolf",
+    "natquest-7_wronganswer_0" : "Sheep", 
+    "natquest-7_wronganswer_1" : "Both the wolf and the sheep", 
+    "natquest-7_wronganswer_2" : "Neither the wolf nor the sheep",
+
+    "natquest-8_question" : "Animals that eat a variety of meats, fruits, and vegetables are?",
+    "natquest-8_trueanswer" : "Omnivores",
+    "natquest-8_wronganswer_0" : "Producers", 
+    "natquest-8_wronganswer_1" : "Carnivores", 
+    "natquest-8_wronganswer_2" : "Herbivores",
+
+    "natquest-9_question" : "Grass that gains energy from the sun is an example of a?",
+    "natquest-9_trueanswer" : "Producer",
+    "natquest-9_wronganswer_0" : "Decomposer", 
+    "natquest-9_wronganswer_1" : "Consumer", 
+    "natquest-9_wronganswer_2" : "Parasite",
+
+    "natquest-10_question" : "Herbivores, carnivores, and omnivores are all?",
+    "natquest-10_trueanswer" : "Consumers",
+    "natquest-10_wronganswer_0" : "Scavengers", 
+    "natquest-10_wronganswer_1" : "Decomposers", 
+    "natquest-10_wronganswer_2" : "Producers",
+
+    "natquest-11_question" : "What is the primary source of energy in all ecosystems?",
+    "natquest-11_trueanswer" : "The sun",
+    "natquest-11_wronganswer_0" : "Producers", 
+    "natquest-11_wronganswer_1" : "Plants", 
+    "natquest-11_wronganswer_2" : "Bacteria"
   }
 }
