@@ -5,6 +5,22 @@
     {
       "new_game" : 20,
       "continue" : 20,
+      "bonus_question" : 15,
+      "game_clear" : 10,
+      "population" : 15,
+      "score_popup" : 7, 
+      "jump" : 5,
+      "dash" : 5,
+      "tutorial_jump_title" : 5,
+      "tutorial_jump_desc" : 65,
+      "tutorial_jump_spacebar" : 10,
+      "tutorial_dash_title" : 13,
+      "tutorial_dash_desc" : 65,
+
+      "tertiary" : 20,
+      "secondary" : 20,
+      "primary" : 20,
+      "producer" : 20,
 
       "tap_anywhere": 30,
       "loading": 20,
@@ -194,6 +210,23 @@
   {
     "new_game" : "New Game",
     "continue" : "Continue",
+
+    "bonus_question" : "Bonus Question",
+    "game_clear" : "Game Clear",
+    "population" : "- Population -",
+    "score_popup" : "SCORE", 
+    "jump" : "JUMP",
+    "dash" : "DASH",
+    "tutorial_jump_title" : "JUMP",
+    "tutorial_jump_desc" : "To jump, tap Jump Button or press [Space Bar] on your keyboard",
+    "tutorial_jump_spacebar" : "Space Bar",
+    "tutorial_dash_title" : "SMASH OBJECT",
+    "tutorial_dash_desc" : "To smash object, press Dash button or press [Z] on your keyboard",
+
+    "tertiary" : "TERTIARY CONSUMERS",
+    "secondary" : "SECONDARY CONSUMERS",
+    "primary" : "PRIMARY CONSUMERS",
+    "producer" : "PRODUCERS",
 
     "tap_anywhere" : "- Tap anywhere to start -",
     "loading" : "Loading",
