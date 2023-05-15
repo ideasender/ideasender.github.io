@@ -20,7 +20,7 @@
         "firstrock_tutorial_1" : "Use jump button to jump",
         "firstrock_tutorial_2" : "Use blow button to break rocks",
 
-        "digger_tutorial_1" : "break the rock below. By jump",
+        "digger_tutorial_1" : "Break the rock below. By jump and then...",
         "digger_tutorial_2" : "then press the blow button. do it continuously",
 
         "cloudcrowd_tutorial_1" : "Keep Moola on the green area",
@@ -102,6 +102,7 @@
         "phase_6_3_0" : "It's huge and seems so scary.",
 
         "phase_6_4_0" : "Don't worry Moola. Seems like it can't move",
+
         "phase_6_4_1" : "What you need to do is just keep hitting.",
 
         "phase_6_5_0" : "Halooooo!!!",
@@ -151,7 +152,55 @@
 
         "phase_10_6_0" : "Ok! Thanks for your help Windy. Good Bye.",
 
-        "phase_10_7_0" : "Good Bye Moola!!!"
+        "phase_10_7_0" : "Good Bye Moola!!!",
+
+        "phase_11_1_0" : "Wow..seems like something huge is coming",
+
+        "phase_11_2_0" : "It's huge amount of water!!!",
+
+        "phase_12_1_0" : "That's amazing. More water will give more energy to break the rocks",
+
+        "phase_12_2_0" : "Yes, besides water, wind and climate, chemical also give huge influence on breaking rocks",
+
+        "phase_12_3_0" : "Oh wow. This journey really give me so much insight. Can't wait to take another journey",
+
+        "phase_13_1_0" : "Fiuhhh, that rocks are very thick",
+        "phase_13_1_1" : "I hope i can have another power to destroy it easily",
+
+        "phase_13_2_0" : "Hmm.. hey look around you",
+        "phase_13_2_1" : "Now we are down deep in the ground. And we are on the magma path",
+
+        "phase_13_3_0" : "What is magma?",
+
+        "phase_13_4_0" : "Hot fluid or semifluid material below or within the earth's crust from which lava and other igneous rock",
+        "phase_13_4_1" : "With some pressure. It can have energy to destroy rock around it",
+
+        "phase_13_5_0" : "Wow! Thats amazing",
+
+        "phase_13_6_0" : "Yes, just try to jump to the magma to get its energy",
+
+        "phase_14_1_0" : "That's cool!!",
+
+        "phase_14_2_0" : "It's not over yet",
+        "phase_14_2_1" : "Let's keep moving",
+
+        "tutorial_joystick" : "Use Arrow on Your Keyboard to Move",
+        "tutorial_jump" : "Use Space  to Jump",
+        "tutorial_blow" : "Use Shift  to Blow",
+        "tutorial_keyboard_leftright" : "Use left and right Arrow to Move",
+
+        "tutorial_keyboard" : "Spacebar",
+        "tutorial_shift" : "Shift",
+
+        "tutorial_phase1_1" : "Move with arrow on your keyboard",
+
+        "tutorial_phase2_1" : "Tap left and right arrow continuously to move",
+
+        "tutorial_phase3_1" : "Use spacebar to jump",
+        "tutorial_phase3_2" : "Use shift to break rocks",
+
+        "tutorial_phase4_1" : "Break the rock below. By jump and then...",
+        "tutorial_phase4_2" : "then press the blow button. do it continuously",
       },
     "_meta": {
         "maxChars": {
@@ -165,9 +214,9 @@
           "jump": 6,
           "blow": 6,
 
-          "sunrising_tutorial_1" : "Move with the joypad",
-          "sunrising_tutorial_2" : "Watch out the falling stone",
-          "sunrising_tutorial_3" : "Collect the stars",
+          "sunrising_tutorial_1" : 70,
+          "sunrising_tutorial_2" : 70,
+          "sunrising_tutorial_3" : 70,
 
           "rain_tutorial_1" : 70,
           "rain_tutorial_2" : 70,
@@ -306,7 +355,44 @@
 
           "phase_10_6_0" : 110,
 
-          "phase_10_7_0" : 110
+          "phase_10_7_0" : 110,
+
+          "phase_11_1_0" : 110,
+
+          "phase_11_2_0" : 110,
+
+          "phase_12_1_0" : 110,
+
+          "phase_12_2_0" : 110,
+
+          "phase_12_3_0" : 110,
+
+          "phase_13_1_0" : 110,
+          "phase_13_1_1" : 110,
+
+          "phase_13_2_0" : 110,
+          "phase_13_2_1" : 110,
+
+          "phase_13_3_0" : 110,
+
+          "phase_13_4_0" : 110,
+          "phase_13_4_1" : 110,
+
+          "phase_13_5_0" : 110,
+
+          "phase_13_6_0" : 110,
+
+          "phase_14_1_0" : 110,
+
+          "phase_14_2_0" : 110,
+          "phase_14_2_1" : 110,
+
+          "tutorial_joystick" : 35,
+          "tutorial_jump" : 18,
+          "tutorial_blow" : 18,
+
+          "tutorial_keyboard" : 10,
+          "tutorial_shift" : 5
         }
     }
 }
