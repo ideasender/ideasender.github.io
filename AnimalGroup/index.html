@@ -3,15 +3,47 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>Legends of Learning | %UNITY_WEB_NAME%</title>
+    <title>Legends of Learning | legends-of-learning-unity-example-v2</title>
     <link rel="stylesheet" href="https://game-cdn.legendsoflearning.com/assets/lol.css" />
     <script src="https://game-cdn.legendsoflearning.com/assets/lol.js"></script>
-    <script src="%UNITY_WEBGL_LOADER_URL%"></script>
-    <script>
-      var gameInstance = UnityLoader.instantiate("gameContainer", "%UNITY_WEBGL_BUILD_URL%");
-    </script>
   </head>
   <body>
-    <div id="gameContainer" style="width: %UNITY_WIDTH%px; height: %UNITY_HEIGHT%px; margin: auto"></div>
+    <div id="unity-container" class="unity-desktop">
+      <canvas id="unity-canvas"></canvas>
+    </div>
+    <script>
+      var buildUrl = "Build";
+      var loaderUrl = buildUrl + "/AnimalGroup.loader.js";
+      var config = {
+        dataUrl: buildUrl + "/AnimalGroup.data.gz",
+        frameworkUrl: buildUrl + "/AnimalGroup.framework.js.gz",
+        codeUrl: buildUrl + "/AnimalGroup.wasm.gz",
+        streamingAssetsUrl: "StreamingAssets",
+        companyName: "DefaultCompany",
+        productName: "legends-of-learning-unity-example-v2",
+        productVersion: "1.0",
+      };
+
+      var container = document.querySelector("#unity-container");
+      var canvas = document.querySelector("#unity-canvas");
+
+      if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
+        container.className = "unity-mobile";
+        config.devicePixelRatio = 1;
+      } else {
+        canvas.style.width = "1024px";
+        canvas.style.height = "576px";
+      }
+      var script = document.createElement("script");
+      script.src = loaderUrl;
+      script.onload = () => {
+        createUnityInstance(canvas, config, (progress) => {
+        }).then((unityInstance) => {
+        }).catch((message) => {
+          alert(message);
+        });
+      };
+      document.body.appendChild(script);
+    </script>
   </body>
 </html>
