@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Legends of Learning | Food Webs</title>
+    <link rel="stylesheet" href="https://game-cdn.legendsoflearning.com/assets/lol.css" />
+    <script src="https://game-cdn.legendsoflearning.com/assets/lol.js"></script>
+  </head>
+  <body>
+    <div id="unity-container" class="unity-desktop">
+      <canvas id="unity-canvas"></canvas>
+    </div>
+    <script>
+      var buildUrl = "Build";
+      var loaderUrl = buildUrl + "/1fbd90587d56654db4138a8d8aeac30a.loader.js";
+      var config = {
+        dataUrl: buildUrl + "/ef464eec1f5f2e719843788783df5801.data.gz",
+        frameworkUrl: buildUrl + "/8b9b9539269dd55b56704ecbbb556c56.framework.js.gz",
+        codeUrl: buildUrl + "/c7a6389a2b916cc9096d7fd278eb54c6.wasm.gz",
+        streamingAssetsUrl: "StreamingAssets",
+        companyName: "PoerSheep",
+        productName: "Food Webs",
+        productVersion: "1.0",
+      };
+
+      var container = document.querySelector("#unity-container");
+      var canvas = document.querySelector("#unity-canvas");
+
+      if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
+        container.className = "unity-mobile";
+        config.devicePixelRatio = 1;
+      } else {
+        canvas.style.width = "1024px";
+        canvas.style.height = "576px";
+      }
+      var script = document.createElement("script");
+      script.src = loaderUrl;
+      script.onload = () => {
+        createUnityInstance(canvas, config, (progress) => {
+        }).then((unityInstance) => {
+        }).catch((message) => {
+          alert(message);
+        });
+      };
+      document.body.appendChild(script);
+    </script>
+  </body>
+</html>
